@@ -1,0 +1,14 @@
+{
+  "name": "codial",
+  "version": "1.0.0",
+  "description": "this is a social app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social"
+  ],
+  "author": "Aman Singhal",
+  "license": "ISC"
+}
